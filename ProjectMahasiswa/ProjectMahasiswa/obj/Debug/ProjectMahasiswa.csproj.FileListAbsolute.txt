@@ -1,0 +1,5 @@
+C:\Users\Win10\Documents\responsi\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.exe
+C:\Users\Win10\Documents\responsi\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.pdb
+C:\Users\Win10\Documents\responsi\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csprojResolveAssemblyReference.cache
+C:\Users\Win10\Documents\responsi\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.exe
+C:\Users\Win10\Documents\responsi\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.pdb
